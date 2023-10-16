@@ -1,7 +1,7 @@
 {
     "version":            "1",
     "project_name":       "main",
-    "project_version":    "1",
+    "project_version":    "6c5fdc2-dirty",
     "project_path":       "/home/surendra/eclipse-workspace/emb-ticket-dispenser",
     "idf_path":           "/home/surendra/esp-idf/esp-idf",
     "build_dir":          "/home/surendra/eclipse-workspace/emb-ticket-dispenser/build",
